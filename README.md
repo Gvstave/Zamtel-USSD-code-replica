@@ -32,20 +32,27 @@ Or download the **ZIP** file form Github ans extract the contents into the folde
 - Open Code::Blocks IDE.
 - Go to **File - Open...** and select the folder where you cloned or extracted the project.
 - Open the project file
+
 ### Step 4: **Build** and Run the Application
 - Click on the build button to compile the code.
 - Once the project is successfully build, click **Run** to execute the program.
 - A terminal window will appear with the **USSD service menu** ready for interaction!
 
 ## Usage
+
 - **Select an option** from menu using the keyboard.
 - The app will display **simulated response** based on the selections and inputs
 
 ## Code Structure
+
 The code is structured into components (functions) each perfoming its own function and then feeding in into the **main** function.
+
 ##### *Parent function*
+
 - *int main(){....};*
+
 ##### *Other functions*
+
 - *int string_compare(void);*
 - *int main_menu(void);*
 - *int choice(void);*
@@ -65,7 +72,9 @@ The code is structured into components (functions) each perfoming its own functi
 ## Contributing
 
 We welcome contributions! If you'd like to improve this project, feel free to fork it, create a branch, and submit a pull request.
-## Steps for contributing:
+
+### Steps for contributing:
+
 - **Fork** the repository.
 - **Create a new branch** for your feature or fix.
 - **Submit a pull request** with a detailed description of the changes.
@@ -75,4 +84,5 @@ We welcome contributions! If you'd like to improve this project, feel free to fo
 **Note:** This project does not have an official license. By contributing, you agree to allow your contributions to be included under the project's terms (as specified or upon further clarification).
 
 ## Acknowledgment
+
 - This project is inspired by the **Zamtel USSD service system**
