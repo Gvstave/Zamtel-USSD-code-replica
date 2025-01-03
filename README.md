@@ -42,6 +42,7 @@ Or download the **ZIP** file form Github ans extract the contents into the folde
 
 - **Select an option** from menu using the keyboard.
 - The app will display **simulated response** based on the selections and inputs
+- **The mobile money PIN** is at the top part of the code, alternatively you can find it in the requirements file of this repo.
 
 ## Code Structure
 
