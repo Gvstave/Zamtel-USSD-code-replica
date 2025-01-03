@@ -43,9 +43,9 @@ Or download the **ZIP** file form Github ans extract the contents into the folde
 
 ## Code Structure
 The code is structured into components (functions) each perfoming its own function and then feeding in into the **main** function.
-**Parent function**
+#####**Parent function**
 *int main(){....};*
-**Other functions**
+#####**Other functions**
 - *int string_compare(void);*
 - *int main_menu(void);*
 - *int choice(void);*
